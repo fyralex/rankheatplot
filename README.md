@@ -3,6 +3,9 @@ The rank-heat plot is a visual representation of the treatment hierarchy estimat
 
 See more at https://rh.ktss.ca/
 
+<img src="./myimage.png">
+
+
 #### Prerequisites
 
 <b>You need to download and install the R packages ‘fields’, ‘RColorBrewer’, ‘circlize’ </b>*
